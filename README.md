@@ -1,3 +1,9 @@
+Para Executar o Projeto, utilizar os Comandos:
+YARN  (que irá instalar as dependencias)
+e
+YARN START (que irá executar o projeto localmente)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
